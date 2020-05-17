@@ -1,2 +1,2 @@
 # AboutMe
-provide deatils of a particular person
+provide details of a particular person
